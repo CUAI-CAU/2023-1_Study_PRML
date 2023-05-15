@@ -3,7 +3,7 @@
 - 김동영, 김유민, 김태윤 
 
 ## Progress 
-|DATE|SUBJECT|CONTENT|
+|DATE|CHAPTER|CONTENTS|
 |----|-------|-------|
 |03.15.23|ch1 | Probability Theory, Model Selection, Curse of Dimensionality, Information Theory| 
 |03.22.23|ch2.1 ~ 2.3.5 | Binary&Multinomial Variables, Guassian Distribution|
