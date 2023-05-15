@@ -4,7 +4,7 @@
 
 ## Progress 
 |DATE|SUBJECT|CONTENT|
-|----|-------|-------|
+|----|-----------|-------|
 |03.15.23|ch1 | Probability Theory, Model Selection, Curse of Dimensionality, Information Theory| 
 |03.22.23|ch2.1 ~ 2.3.5 | Binary&Multinomial Variables, Guassian Distribution|
 |04.05.23|ch2.3.6 ~ 2.5| Exponential Family, Nonparametric Methods | 
