@@ -11,3 +11,4 @@
 |05.03.23|ch3.1 ~ 3.1.2| Linear Basis Function Models | 
 |05.10.23|ch3.1.3 ~ 3.3| Bias-Variance Decomposition, Bayesian Linear Regression | 
 |05.17.23|ch3.4 ~ 4.1| Bayesian Model Comparison, Evidence Approximation, Limitaitons of Fixed Basis Functions, discriminat Functions | 
+|05.24.23|
