@@ -10,5 +10,5 @@
 |04.05.23|ch2.3.6 ~ 2.5| Exponential Family, Nonparametric Methods | 
 |05.03.23|ch3.1 ~ 3.1.2| Linear Basis Function Models | 
 |05.10.23|ch3.1.3 ~ 3.3| Bias-Variance Decomposition, Bayesian Linear Regression | 
-|05.17.23|ch3.4 ~ 4.1| Bayesian Model Comparison, Evidence Approximation, Limitaitons of Fixed Basis Functions, discriminat Functions | 
-|05.24.23|
+|05.17.23|ch3.4 + ch1 equation1.70 proof| Bayesian Model Comparison, independence assumption in the conditional probability| 
+|05.24.23|ch3.5 ~ 4.1 |Evidence Approximation, Limitaitons of Fixed Basis Functions, discriminat Functions|
