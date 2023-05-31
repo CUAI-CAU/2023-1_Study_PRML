@@ -11,4 +11,4 @@
 |05.03.23|ch3.1 ~ 3.1.2| Linear Basis Function Models | 
 |05.10.23|ch3.1.3 ~ 3.3| Bias-Variance Decomposition, Bayesian Linear Regression | 
 |05.17.23|ch3.4 + ch1 equation1.70 proof| Bayesian Model Comparison, independence assumption in the conditional probability| 
-|05.31.23|ch3.5 ~ 4.1.7 | Evidence Approximation, Limitaitons of Fixed Basis Functions, discriminat Functions|
+|06.28.23(Not fixed)|ch3.5 ~ 4.1.7 | Evidence Approximation, Limitaitons of Fixed Basis Functions, discriminat Functions|
